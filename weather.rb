@@ -33,3 +33,7 @@ response_city = response.body['query']['results']['channel']['location']['city']
 p "It is #{condition} and #{temperature} in #{response_city} right now"
 
 # puts JSON.pretty_generate(response.body['query']['results']['channel']['item']['condition'])
+
+
+
+
